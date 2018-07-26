@@ -23,7 +23,7 @@ public class DBParametersResource {
 
     @Override
     public String toString() {
-        return "DBParametersResource{name='" + name + "', user='" + user + "', pass='" + pass + "'";
+        return "DBParametersResource{name='" + name + "', user='" + user + "', pass='" + pass + "']";
     }
 
 }

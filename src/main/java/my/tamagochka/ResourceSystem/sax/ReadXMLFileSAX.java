@@ -9,7 +9,7 @@ import java.io.IOException;
 
 public class ReadXMLFileSAX {
 
-    public static Object readXML(String xmlFile) {
+    public static Object read(String xmlFile) {
         try {
             SAXParserFactory factory = SAXParserFactory.newInstance();
             SAXParser parser = factory.newSAXParser();

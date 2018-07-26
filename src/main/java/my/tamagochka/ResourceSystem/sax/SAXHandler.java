@@ -1,6 +1,6 @@
 package my.tamagochka.ResourceSystem.sax;
 
-import javafx.scene.effect.Reflection;
+import my.tamagochka.ResourceSystem.reflection.ReflectionHelper;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;

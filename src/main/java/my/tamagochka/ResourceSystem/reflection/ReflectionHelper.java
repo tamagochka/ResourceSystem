@@ -1,7 +1,5 @@
 package my.tamagochka.ResourceSystem.reflection;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
-
 import java.lang.reflect.Field;
 
 public class ReflectionHelper {

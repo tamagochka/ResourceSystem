@@ -1,4 +1,4 @@
-<class name="resources.DBParametersResource">
+<class name="my.tamagochka.ResourceSystem.resources.DBParametersResource">
     <name>db_example_name</name>
     <user>admin</user>
     <pass>very_strong_password</pass>
